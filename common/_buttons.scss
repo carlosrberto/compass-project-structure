@@ -1,0 +1,5 @@
+@import "modules/buttons";
+
+.button-red{
+	@extend %button-red;
+}
